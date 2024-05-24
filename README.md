@@ -6,6 +6,7 @@ Files for Libft (2020)
 * [Subject](#subject)
 * [Usage](#usage)
 * [Project Status](#project-status)
+* [Additional Notes](#additional-notes)
 
 ## Subject
 
